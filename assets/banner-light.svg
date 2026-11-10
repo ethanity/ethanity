@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="200" viewBox="0 0 854 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6F8FA"/>
+      <stop offset="1" stop-color="#EAEEF2"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0969DA"/>
+      <stop offset="1" stop-color="#8250DF"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#D0D7DE" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="854" height="200" rx="14" fill="url(#bg)"/>
+  <rect width="854" height="200" rx="14" fill="url(#grid)" opacity="0.55"/>
+  <!-- robot arm motif -->
+  <g transform="translate(700 150)" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-34 0H34" stroke="#0969DA" stroke-width="7"/>
+    <path d="M0 0V-8L-22 -58L22 -92"/>
+    <path d="M22 -92L40 -80M22 -92L34 -108"/>
+    <circle cx="0" cy="-8" r="6" fill="#F6F8FA"/>
+    <circle cx="-22" cy="-58" r="6" fill="#F6F8FA"/>
+    <circle cx="22" cy="-92" r="5" fill="#F6F8FA"/>
+  </g>
+  <text x="56" y="92" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#1F2328">Ethan Don</text>
+  <rect x="58" y="108" width="72" height="4" rx="2" fill="url(#accent)"/>
+  <text x="56" y="146" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="19" fill="#57606A">ECE @ USC  ·  robot learning  ·  building AI, web &amp; hardware</text>
+</svg>
