@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-  <img src="./assets/banner-light.svg" alt="Ethan Don: ECE @ USC, robot learning, building AI, web and hardware" width="854" />
+  <img src="./assets/banner-light.svg" alt="Ethan Don: ECE @ USC, physical AI, robot learning" width="854" />
 </picture>
 
 <br/>
