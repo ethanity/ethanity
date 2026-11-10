@@ -20,33 +20,10 @@
 - 🤖 **Robot learning research** at USC: evaluating memory-augmented vision-language-action (VLA) models on simulated manipulation benchmarks (paper under review)
 - 🎮 **The Shared Gaming Lab**: playable 3D story worlds in the browser, *Honorable Mention at USC SEP Hacks (LA Tech Week)*
 - 📚 **Squo** (co-founder): an AI tutor that adapts by watching how students actually work through problems
+- 🛠️ **Previously built:** an Arduino-powered electric clarinet, about 85% cheaper than an entry-level instrument
 - 🌱 **Learning:** PyTorch and robot-learning tooling
-
-### Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎮 <a href="https://thesharedgaminglab.com">The Shared Gaming Lab</a></h4>
-      Storefront of playable 3D story worlds with WebSocket multiplayer and a branching story engine (14,000+ unique paths, linted in CI).
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 VLA robot-memory evaluation</h4>
-      Reproduced a 4B-parameter VLA model on 16 simulated RoboMME manipulation tasks (87.5% vs. 88.3% published) and profiled its decision latency.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📚 Squo</h4>
-      Adaptive learning platform: multi-agent AI instruction plus computer vision on handwritten work, with real-time multi-student tracking.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎷 Electric Clarinet</h4>
-      Full-scale electric clarinet built around an Arduino Nano and mechanical key switches, about 85% cheaper than an entry-level instrument.
-    </td>
-  </tr>
-</table>
 
 ### Languages & tools
 
-<picture><img src="https://skillicons.dev/icons?i=py,java,cpp,r,matlab,linux" alt="Python, Java, C++, R, MATLAB, Linux" /></picture>
+<picture><img src="https://skillicons.dev/icons?i=py,java,cpp,r,matlab,linux,arduino" alt="Python, Java, C++, R, MATLAB, Linux, Arduino" /></picture>
+<picture><img src="./assets/icon-claude-code.svg" alt="Claude Code" width="48" height="48" /></picture>
